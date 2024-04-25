@@ -67,7 +67,7 @@
         "description": "Learn the essentials of songwriting to express your musical creativity.",
         "price": 159.99,
         "instructor": "Samantha Miller",
-        "isFeatured": false,
+        "isFeatured": true,
         "image": "/courses/song-writing.jpg"
       },
       {
@@ -99,6 +99,16 @@
         "instructor": "Ethan Moore",
         "isFeatured": true,
         "image": "/courses/blues.jpg"
+      },
+      {
+        "id": 11,
+        "title": "Funk Bass Grooves",
+        "slug": "funk-bass-grooves",
+        "description": "Explore the funky world of bass guitar with this course focusing on grooves, rhythms, and techniques used in funk music.",
+        "price": 199.99,
+        "instructor": "Marcus Johnson",
+        "isFeatured": false,
+        "image": "/courses/bass.jpg"
       }
     ]
   }
